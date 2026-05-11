@@ -52,6 +52,7 @@ window.CONFIG = {
         { trigger: '!py', name: 'Python', url: 'https://docs.python.org/3/search.html?q={q}' },
         { trigger: '!npm', name: 'NPM', url: 'https://www.npmjs.com/search?q={q}' },
         { trigger: '!duck', name: 'DuckDuckGo', url: 'https://duckduckgo.com/?q={q}' },
+        { trigger: '!duckai', name: 'DuckAI', url: 'https://www.bing.com/chat?q={q}' },
         { trigger: '!imdb', name: 'IMDb', url: 'https://www.imdb.com/find?q={q}' },
         { trigger: '!fb', name: 'Facebook', url: 'https://www.facebook.com/search/top/?q={q}' },
         { trigger: '!ig', name: 'Instagram', url: 'https://www.instagram.com/explore/tags/{q}/' },
