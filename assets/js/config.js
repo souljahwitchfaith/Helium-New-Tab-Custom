@@ -91,6 +91,7 @@ window.CONFIG = {
         { trigger: '!tg', name: 'Telegram', url: 'https://t.me/s/{q}' },
         { trigger: '!ytm', name: 'YouTube Music', url: 'https://music.youtube.com/search?q={q}' },
         { trigger: '!rt', name: 'RuTracker', url: 'https://rutracker.org/forum/tracker.php?nm={q}' },
-        { trigger: '!sc', name: 'SoundCloud', url: 'https://soundcloud.com/search?q={q}' }
+        { trigger: '!sc', name: 'SoundCloud', url: 'https://soundcloud.com/search?q={q}' },
+        { trigger: '!cws', name: 'Chrome Web Store', url: 'https://chromewebstore.google.com/search/={q}' }
     ]
 };
